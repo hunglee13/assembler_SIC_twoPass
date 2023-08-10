@@ -1,9 +1,11 @@
 # assembler_SIC_twoPass
-SIC 版本的two pass assembler 
+> SIC 版本的 two pass assembler
+- pass1: 將 source code 轉成 op code，並將相關資訊存至 intermediate file
+- pass2: 根據 intermediate file 裡面的內容組合出完整的 object program 或進行報錯
 ## 正常輸出
 ![image](https://github.com/hunglee13/assembler_SIC_twoPass/assets/105621295/32fcddbf-7822-4176-b758-1ccb4dad0c10)
 ## 基礎功能
-1. 1. 如果 source code 有錯，會顯示錯誤
+1. 如果 source code 有錯，會顯示錯誤
 2. START 可以更換起始位置
 3. END operand 可以隨意更換位置
 4. 重複定義的 symbol: duplicate definition
