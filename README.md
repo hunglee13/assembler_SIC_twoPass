@@ -1,4 +1,4 @@
-![image](https://github.com/hunglee13/assembler_SIC_twoPass/assets/105621295/43af51cd-7df8-44b9-afe2-b6dbde2a70e6)# assembler_SIC_twoPass
+# assembler_SIC_twoPass
 SIC 版本的two pass assembler 
 ## 正常輸出
 ![image](https://github.com/hunglee13/assembler_SIC_twoPass/assets/105621295/32fcddbf-7822-4176-b758-1ccb4dad0c10)
